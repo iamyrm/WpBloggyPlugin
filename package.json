@@ -1,0 +1,15 @@
+{
+  "name": "bloggy-plus",
+  "version": "1.0.0",
+  "description": "This is a Plugin associated with Bloggy Theme. This will help us to add blocks to the theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yagyaraj Majhi",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^28.2.0"
+  }
+}
